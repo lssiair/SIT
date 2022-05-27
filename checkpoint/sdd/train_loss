@@ -1,0 +1,1000 @@
+dataset:sdd epoch:0  total_loss:185.221771452162  coarse_reg_loss:27.468873447842068  fine_reg_loss:23.612961716122097  clf_loss:134.13993587758807 
+
+dataset:sdd epoch:1  total_loss:36.80212741427951  coarse_reg_loss:14.957077768113878  fine_reg_loss:12.590927018059624  clf_loss:9.254122349951002 
+
+dataset:sdd epoch:2  total_loss:26.8548518286811  coarse_reg_loss:10.449046479331123  fine_reg_loss:10.689089165793526  clf_loss:5.7167162497838335 
+
+dataset:sdd epoch:3  total_loss:20.925881650712753  coarse_reg_loss:10.279467556211683  fine_reg_loss:6.050363474422031  clf_loss:4.596050222714742 
+
+dataset:sdd epoch:4  total_loss:20.306801478068035  coarse_reg_loss:9.500261465708414  fine_reg_loss:6.58739972114563  clf_loss:4.219140238232082 
+
+dataset:sdd epoch:5  total_loss:16.997715950012207  coarse_reg_loss:7.7267835934956866  fine_reg_loss:5.644414146741231  clf_loss:3.6265184349483914 
+
+dataset:sdd epoch:6  total_loss:19.676373216840958  coarse_reg_loss:7.436878469255236  fine_reg_loss:8.852088212966919  clf_loss:3.387406759791904 
+
+dataset:sdd epoch:7  total_loss:18.152136749691433  coarse_reg_loss:7.26494918929206  fine_reg_loss:7.687082529067993  clf_loss:3.2001050975587635 
+
+dataset:sdd epoch:8  total_loss:15.462915049658882  coarse_reg_loss:7.056834830178155  fine_reg_loss:5.18509058157603  clf_loss:3.220989558431837 
+
+dataset:sdd epoch:9  total_loss:18.165244791242813  coarse_reg_loss:8.954210678736368  fine_reg_loss:5.510680357615153  clf_loss:3.700353569454617 
+
+dataset:sdd epoch:10  total_loss:23.827743848164875  coarse_reg_loss:10.61044618818495  fine_reg_loss:6.207865013016595  clf_loss:7.009432739681667 
+
+dataset:sdd epoch:11  total_loss:18.633878231048584  coarse_reg_loss:10.071388562520346  fine_reg_loss:4.521225068304274  clf_loss:4.041264692942302 
+
+dataset:sdd epoch:12  total_loss:17.171821753184002  coarse_reg_loss:8.075746006435818  fine_reg_loss:4.74267053604126  clf_loss:4.353405263688829 
+
+dataset:sdd epoch:13  total_loss:15.76904371049669  coarse_reg_loss:8.052284002304077  fine_reg_loss:4.0697371164957685  clf_loss:3.6470224062601724 
+
+dataset:sdd epoch:14  total_loss:15.730650477939182  coarse_reg_loss:7.4972808890872535  fine_reg_loss:4.811636792288886  clf_loss:3.421732849544949 
+
+dataset:sdd epoch:15  total_loss:15.510364055633545  coarse_reg_loss:7.454195976257324  fine_reg_loss:4.8658537069956465  clf_loss:3.190314186943902 
+
+dataset:sdd epoch:16  total_loss:14.955610381232368  coarse_reg_loss:7.2511814965142145  fine_reg_loss:4.554361197683546  clf_loss:3.150067541334364 
+
+dataset:sdd epoch:17  total_loss:13.512924406263563  coarse_reg_loss:6.737512403064304  fine_reg_loss:3.6662939522001476  clf_loss:3.109117958280775 
+
+dataset:sdd epoch:18  total_loss:15.62209807501899  coarse_reg_loss:6.78802137904697  fine_reg_loss:5.713329659567939  clf_loss:3.1207469834221735 
+
+dataset:sdd epoch:19  total_loss:14.354453669654  coarse_reg_loss:6.596008221308391  fine_reg_loss:4.638114174207051  clf_loss:3.120331327120463 
+
+dataset:sdd epoch:20  total_loss:15.240532769097221  coarse_reg_loss:6.76608149210612  fine_reg_loss:5.375913633240594  clf_loss:3.0985376702414618 
+
+dataset:sdd epoch:21  total_loss:15.699945078955757  coarse_reg_loss:6.657013442781237  fine_reg_loss:5.92421982023451  clf_loss:3.11871165699429 
+
+dataset:sdd epoch:22  total_loss:14.28333208296034  coarse_reg_loss:6.431938409805298  fine_reg_loss:4.767802953720093  clf_loss:3.0835907989078097 
+
+dataset:sdd epoch:23  total_loss:12.922802342308891  coarse_reg_loss:6.39202348391215  fine_reg_loss:3.4281531903478832  clf_loss:3.102625608444214 
+
+dataset:sdd epoch:24  total_loss:14.390731493631998  coarse_reg_loss:6.465155839920044  fine_reg_loss:4.872605125109355  clf_loss:3.0529705815845065 
+
+dataset:sdd epoch:25  total_loss:14.046688185797798  coarse_reg_loss:6.480545891655816  fine_reg_loss:4.4957743883132935  clf_loss:3.0703679190741644 
+
+dataset:sdd epoch:26  total_loss:14.464197370741102  coarse_reg_loss:6.424263954162598  fine_reg_loss:4.9778437746895685  clf_loss:3.062089615397983 
+
+dataset:sdd epoch:27  total_loss:14.233420530954996  coarse_reg_loss:7.090177615483602  fine_reg_loss:4.0678062836329145  clf_loss:3.0754364596472845 
+
+dataset:sdd epoch:28  total_loss:13.112532562679714  coarse_reg_loss:6.744803826014201  fine_reg_loss:3.315460893842909  clf_loss:3.0522678825590344 
+
+dataset:sdd epoch:29  total_loss:13.06027438905504  coarse_reg_loss:6.4984962940216064  fine_reg_loss:3.5074860321150885  clf_loss:3.05429208278656 
+
+dataset:sdd epoch:30  total_loss:12.889100074768066  coarse_reg_loss:6.202928463617961  fine_reg_loss:3.640565594037374  clf_loss:3.045606176058451 
+
+dataset:sdd epoch:31  total_loss:12.710907141367594  coarse_reg_loss:6.2755815452999535  fine_reg_loss:3.39308496316274  clf_loss:3.0422404872046576 
+
+dataset:sdd epoch:32  total_loss:13.236127800411648  coarse_reg_loss:6.575457122590807  fine_reg_loss:3.603313876522912  clf_loss:3.0573567284478083 
+
+dataset:sdd epoch:33  total_loss:11.941838635338677  coarse_reg_loss:6.237162643008762  fine_reg_loss:2.6384911470943027  clf_loss:3.0661848651038275 
+
+dataset:sdd epoch:34  total_loss:12.895519044664171  coarse_reg_loss:7.16991040441725  fine_reg_loss:2.5736904740333557  clf_loss:3.1519181728363037 
+
+dataset:sdd epoch:35  total_loss:13.458683808644613  coarse_reg_loss:7.185878356297811  fine_reg_loss:3.148760676383972  clf_loss:3.124044802453783 
+
+dataset:sdd epoch:36  total_loss:13.89148802227444  coarse_reg_loss:6.831828832626343  fine_reg_loss:3.700835453139411  clf_loss:3.3588238954544067 
+
+dataset:sdd epoch:37  total_loss:13.019250128004286  coarse_reg_loss:7.051739560233222  fine_reg_loss:2.7746854954295688  clf_loss:3.1928250127368503 
+
+dataset:sdd epoch:38  total_loss:12.643247498406303  coarse_reg_loss:6.8048346572452125  fine_reg_loss:2.619256297747294  clf_loss:3.219156583150228 
+
+dataset:sdd epoch:39  total_loss:12.167352729373508  coarse_reg_loss:6.3776843547821045  fine_reg_loss:2.6401618917783103  clf_loss:3.1495066616270275 
+
+dataset:sdd epoch:40  total_loss:12.712105592091879  coarse_reg_loss:6.375105222066243  fine_reg_loss:3.255148364437951  clf_loss:3.0818519724739923 
+
+dataset:sdd epoch:41  total_loss:12.306697845458984  coarse_reg_loss:6.169447792900933  fine_reg_loss:3.097042487727271  clf_loss:3.0402073595258923 
+
+dataset:sdd epoch:42  total_loss:12.72453663084242  coarse_reg_loss:6.3055333031548395  fine_reg_loss:3.3776976466178894  clf_loss:3.041305528746711 
+
+dataset:sdd epoch:43  total_loss:12.594160556793213  coarse_reg_loss:6.152621865272522  fine_reg_loss:3.4229412608676486  clf_loss:3.018597443898519 
+
+dataset:sdd epoch:44  total_loss:12.079444885253906  coarse_reg_loss:6.155691464742024  fine_reg_loss:2.917101389831967  clf_loss:3.006652037302653 
+
+dataset:sdd epoch:45  total_loss:12.27619727452596  coarse_reg_loss:6.317581044303046  fine_reg_loss:2.9473456541697183  clf_loss:3.0112707349989147 
+
+dataset:sdd epoch:46  total_loss:12.28825150595771  coarse_reg_loss:6.419725206163195  fine_reg_loss:2.8441459867689343  clf_loss:3.024380154079861 
+
+dataset:sdd epoch:47  total_loss:12.767593542734781  coarse_reg_loss:6.442057953940497  fine_reg_loss:3.3241742849349976  clf_loss:3.0013612508773804 
+
+dataset:sdd epoch:48  total_loss:13.07939460542467  coarse_reg_loss:6.901404566235012  fine_reg_loss:3.156601349512736  clf_loss:3.021388716167874 
+
+dataset:sdd epoch:49  total_loss:12.388248761494955  coarse_reg_loss:6.596883243984646  fine_reg_loss:2.7882670958836875  clf_loss:3.0030982626809015 
+
+dataset:sdd epoch:50  total_loss:11.690904193454319  coarse_reg_loss:6.321000152164036  fine_reg_loss:2.3525946537653604  clf_loss:3.0173092815611096 
+
+dataset:sdd epoch:51  total_loss:11.345274607340494  coarse_reg_loss:6.137971798578898  fine_reg_loss:2.207145538594988  clf_loss:3.000157290034824 
+
+dataset:sdd epoch:52  total_loss:12.469723383585611  coarse_reg_loss:6.172947247823079  fine_reg_loss:3.244637972778744  clf_loss:3.0521382225884333 
+
+dataset:sdd epoch:53  total_loss:12.515951050652397  coarse_reg_loss:6.090465095308092  fine_reg_loss:3.3443833125962152  clf_loss:3.0811026758617825 
+
+dataset:sdd epoch:54  total_loss:11.950767464107937  coarse_reg_loss:6.07511470052931  fine_reg_loss:2.747896558708615  clf_loss:3.127756463156806 
+
+dataset:sdd epoch:55  total_loss:12.11473200056288  coarse_reg_loss:6.158654703034295  fine_reg_loss:2.881402737564511  clf_loss:3.0746743149227567 
+
+dataset:sdd epoch:56  total_loss:12.457618342505562  coarse_reg_loss:6.772911177741157  fine_reg_loss:2.6592004431618586  clf_loss:3.025506774584452 
+
+dataset:sdd epoch:57  total_loss:12.346504158443874  coarse_reg_loss:6.297252813975017  fine_reg_loss:3.011569791369968  clf_loss:3.0376815266079373 
+
+dataset:sdd epoch:58  total_loss:12.406461662716335  coarse_reg_loss:6.5492368539174395  fine_reg_loss:2.769240419069926  clf_loss:3.08798438972897 
+
+dataset:sdd epoch:59  total_loss:11.80975087483724  coarse_reg_loss:6.452133258183797  fine_reg_loss:2.2255337966812982  clf_loss:3.132083853085836 
+
+dataset:sdd epoch:60  total_loss:12.18608554204305  coarse_reg_loss:6.303912878036499  fine_reg_loss:2.8176839550336203  clf_loss:3.0644887818230524 
+
+dataset:sdd epoch:61  total_loss:12.646572801801893  coarse_reg_loss:6.4869848357306585  fine_reg_loss:2.9754083487722607  clf_loss:3.1841796239217124 
+
+dataset:sdd epoch:62  total_loss:12.738327927059597  coarse_reg_loss:6.736784590615167  fine_reg_loss:2.714724752638075  clf_loss:3.2868187295065985 
+
+dataset:sdd epoch:63  total_loss:12.384876039293077  coarse_reg_loss:7.018687089284261  fine_reg_loss:2.1763706141048007  clf_loss:3.1898183955086603 
+
+dataset:sdd epoch:64  total_loss:13.131226963467068  coarse_reg_loss:7.648821671803792  fine_reg_loss:2.3081912133428784  clf_loss:3.174213965733846 
+
+dataset:sdd epoch:65  total_loss:12.459276835123697  coarse_reg_loss:6.776220824983385  fine_reg_loss:2.4774455494350858  clf_loss:3.2056104607052274 
+
+dataset:sdd epoch:66  total_loss:12.637151135338677  coarse_reg_loss:6.605129851235284  fine_reg_loss:2.7287541230519614  clf_loss:3.3032672802607217 
+
+dataset:sdd epoch:67  total_loss:12.671884324815538  coarse_reg_loss:6.740568478902181  fine_reg_loss:2.6759251488579645  clf_loss:3.255390617582533 
+
+dataset:sdd epoch:68  total_loss:13.654670927259657  coarse_reg_loss:7.341413630379571  fine_reg_loss:3.0118133823076882  clf_loss:3.301443987422519 
+
+dataset:sdd epoch:69  total_loss:12.441128094991049  coarse_reg_loss:6.637350135379368  fine_reg_loss:2.6226882934570312  clf_loss:3.1810894277360706 
+
+dataset:sdd epoch:70  total_loss:12.192136764526367  coarse_reg_loss:6.614282740486993  fine_reg_loss:2.392255266507467  clf_loss:3.1855987442864313 
+
+dataset:sdd epoch:71  total_loss:12.729220973120796  coarse_reg_loss:7.180233531528049  fine_reg_loss:2.3309433923827276  clf_loss:3.2180441882875233 
+
+dataset:sdd epoch:72  total_loss:17.531986819373238  coarse_reg_loss:10.657064835230509  fine_reg_loss:3.403298338254293  clf_loss:3.471623831325107 
+
+dataset:sdd epoch:73  total_loss:13.75377861658732  coarse_reg_loss:8.060741715961033  fine_reg_loss:2.4244298007753162  clf_loss:3.2686070601145425 
+
+dataset:sdd epoch:74  total_loss:13.690450085533989  coarse_reg_loss:7.27679975827535  fine_reg_loss:3.243156088723077  clf_loss:3.1704941987991333 
+
+dataset:sdd epoch:75  total_loss:12.619524743821886  coarse_reg_loss:6.863770087560018  fine_reg_loss:2.570254716608259  clf_loss:3.1854997873306274 
+
+dataset:sdd epoch:76  total_loss:13.180303573608398  coarse_reg_loss:6.753446817398071  fine_reg_loss:3.2477780514293246  clf_loss:3.1790788306130304 
+
+dataset:sdd epoch:77  total_loss:12.348124821980795  coarse_reg_loss:6.705538617240058  fine_reg_loss:2.5995217296812267  clf_loss:3.0430646472507052 
+
+dataset:sdd epoch:78  total_loss:11.897339079115126  coarse_reg_loss:6.417262156804402  fine_reg_loss:2.3930934071540833  clf_loss:3.0869834423065186 
+
+dataset:sdd epoch:79  total_loss:11.585536744859484  coarse_reg_loss:6.363084766599867  fine_reg_loss:2.081533087624444  clf_loss:3.140919049580892 
+
+dataset:sdd epoch:80  total_loss:12.087641080220541  coarse_reg_loss:6.625593688752916  fine_reg_loss:2.306968185636732  clf_loss:3.1550793250401816 
+
+dataset:sdd epoch:81  total_loss:12.226285987430149  coarse_reg_loss:6.483360979292128  fine_reg_loss:2.6655195355415344  clf_loss:3.077405426237318 
+
+dataset:sdd epoch:82  total_loss:11.284964667426216  coarse_reg_loss:6.330791023042467  fine_reg_loss:1.8824551569090948  clf_loss:3.0717184278700085 
+
+dataset:sdd epoch:83  total_loss:11.777108245425755  coarse_reg_loss:6.218686925040351  fine_reg_loss:2.452971789571974  clf_loss:3.1054496235317655 
+
+dataset:sdd epoch:84  total_loss:11.762264516618517  coarse_reg_loss:6.426087485419379  fine_reg_loss:2.310842308733198  clf_loss:3.0253347290886774 
+
+dataset:sdd epoch:85  total_loss:11.623748302459717  coarse_reg_loss:6.237434599134657  fine_reg_loss:2.365930716196696  clf_loss:3.020382934146457 
+
+dataset:sdd epoch:86  total_loss:11.266044934590658  coarse_reg_loss:6.043818897671169  fine_reg_loss:2.238664527734121  clf_loss:2.983561489317152 
+
+dataset:sdd epoch:87  total_loss:11.13105673260159  coarse_reg_loss:5.977853960461086  fine_reg_loss:2.185670130782657  clf_loss:2.9675327009624906 
+
+dataset:sdd epoch:88  total_loss:11.277522722880045  coarse_reg_loss:6.1572201119528875  fine_reg_loss:2.11964750289917  clf_loss:3.000654856363932 
+
+dataset:sdd epoch:89  total_loss:11.350326379140219  coarse_reg_loss:6.059019539091322  fine_reg_loss:1.9067168302006192  clf_loss:3.3845900694529214 
+
+dataset:sdd epoch:90  total_loss:11.52674028608534  coarse_reg_loss:6.304454618030125  fine_reg_loss:2.0929549270206027  clf_loss:3.1293305688434176 
+
+dataset:sdd epoch:91  total_loss:11.451704025268555  coarse_reg_loss:6.47957976659139  fine_reg_loss:1.8328288131290011  clf_loss:3.1392953793207803 
+
+dataset:sdd epoch:92  total_loss:11.70320177078247  coarse_reg_loss:6.43154075410631  fine_reg_loss:2.1764646437433033  clf_loss:3.0951962338553534 
+
+dataset:sdd epoch:93  total_loss:12.183484554290771  coarse_reg_loss:6.565559254752265  fine_reg_loss:2.537200371424357  clf_loss:3.0807248221503363 
+
+dataset:sdd epoch:94  total_loss:11.453576458825005  coarse_reg_loss:6.072380410300361  fine_reg_loss:2.3974638978640237  clf_loss:2.983732064565023 
+
+dataset:sdd epoch:95  total_loss:11.170511139763725  coarse_reg_loss:5.910995033052233  fine_reg_loss:2.290666308667925  clf_loss:2.9688498311572604 
+
+dataset:sdd epoch:96  total_loss:10.8264725473192  coarse_reg_loss:5.919851236873203  fine_reg_loss:1.9440952340761821  clf_loss:2.9625260167651706 
+
+dataset:sdd epoch:97  total_loss:10.801989396413168  coarse_reg_loss:5.961598846647474  fine_reg_loss:1.9127163224750094  clf_loss:2.9276742140452066 
+
+dataset:sdd epoch:98  total_loss:10.66101966963874  coarse_reg_loss:5.811169068018596  fine_reg_loss:1.9227826396624248  clf_loss:2.927068034807841 
+
+dataset:sdd epoch:99  total_loss:11.101778984069824  coarse_reg_loss:5.883128431108263  fine_reg_loss:2.2971797121895685  clf_loss:2.921471118927002 
+
+dataset:sdd epoch:100  total_loss:11.057694329155815  coarse_reg_loss:5.932281414667766  fine_reg_loss:2.1941476861635842  clf_loss:2.931265181965298 
+
+dataset:sdd epoch:101  total_loss:11.49759684668647  coarse_reg_loss:5.97201591067844  fine_reg_loss:2.6168966359562345  clf_loss:2.9086842934290567 
+
+dataset:sdd epoch:102  total_loss:11.053827921549479  coarse_reg_loss:6.05730418364207  fine_reg_loss:2.085737148920695  clf_loss:2.910786588986715 
+
+dataset:sdd epoch:103  total_loss:11.039076487223307  coarse_reg_loss:6.208300219641791  fine_reg_loss:1.880006492137909  clf_loss:2.950769729084439 
+
+dataset:sdd epoch:104  total_loss:11.737350304921469  coarse_reg_loss:6.233453088336521  fine_reg_loss:2.5312200122409396  clf_loss:2.9726770453982883 
+
+dataset:sdd epoch:105  total_loss:11.089184919993082  coarse_reg_loss:5.961796601613362  fine_reg_loss:2.2057535184754267  clf_loss:2.9216349257363214 
+
+dataset:sdd epoch:106  total_loss:11.157756434546577  coarse_reg_loss:6.272909482320149  fine_reg_loss:1.9825218319892883  clf_loss:2.9023251003689237 
+
+dataset:sdd epoch:107  total_loss:10.391444630093044  coarse_reg_loss:5.903535260094537  fine_reg_loss:1.6246220767498016  clf_loss:2.8632871442370944 
+
+dataset:sdd epoch:108  total_loss:11.10104947619968  coarse_reg_loss:6.359790378146702  fine_reg_loss:1.7515196767118242  clf_loss:2.989739523993598 
+
+dataset:sdd epoch:109  total_loss:11.37695942984687  coarse_reg_loss:6.1432076295216875  fine_reg_loss:2.212527632713318  clf_loss:3.021224273575677 
+
+dataset:sdd epoch:110  total_loss:11.046346929338243  coarse_reg_loss:6.078326304753621  fine_reg_loss:1.9776236481136746  clf_loss:2.9903968969980874 
+
+dataset:sdd epoch:111  total_loss:11.076926390329996  coarse_reg_loss:6.064356711175707  fine_reg_loss:2.0037896169556513  clf_loss:3.008779843648275 
+
+dataset:sdd epoch:112  total_loss:10.787150118086073  coarse_reg_loss:5.938687615924412  fine_reg_loss:1.8776497112380133  clf_loss:2.9708127048280506 
+
+dataset:sdd epoch:113  total_loss:10.883460150824654  coarse_reg_loss:5.905598282814026  fine_reg_loss:2.0301366249720254  clf_loss:2.9477252695295544 
+
+dataset:sdd epoch:114  total_loss:11.14086882273356  coarse_reg_loss:6.3242767916785345  fine_reg_loss:1.8979410926500957  clf_loss:2.918651024500529 
+
+dataset:sdd epoch:115  total_loss:10.6935519112481  coarse_reg_loss:6.246020740932888  fine_reg_loss:1.538134256998698  clf_loss:2.909396913316515 
+
+dataset:sdd epoch:116  total_loss:10.451019022199842  coarse_reg_loss:5.922602070702447  fine_reg_loss:1.647998528348075  clf_loss:2.8804183536105685 
+
+dataset:sdd epoch:117  total_loss:10.621683809492323  coarse_reg_loss:5.862266765700446  fine_reg_loss:1.8917604221238031  clf_loss:2.8676566415362887 
+
+dataset:sdd epoch:118  total_loss:10.624340269300673  coarse_reg_loss:5.986018048392402  fine_reg_loss:1.758792221546173  clf_loss:2.8795299132665 
+
+dataset:sdd epoch:119  total_loss:10.82273366716173  coarse_reg_loss:6.039680149820116  fine_reg_loss:1.918487422996097  clf_loss:2.8645660479863486 
+
+dataset:sdd epoch:120  total_loss:10.279560089111328  coarse_reg_loss:5.754512415991889  fine_reg_loss:1.665631095568339  clf_loss:2.8594165245691934 
+
+dataset:sdd epoch:121  total_loss:10.763977103763157  coarse_reg_loss:5.954803413814968  fine_reg_loss:1.9685246149698894  clf_loss:2.840648969014486 
+
+dataset:sdd epoch:122  total_loss:10.617964479658339  coarse_reg_loss:6.204484078619215  fine_reg_loss:1.5723430779245164  clf_loss:2.8411373827192516 
+
+dataset:sdd epoch:123  total_loss:11.104561964670816  coarse_reg_loss:6.331272496117486  fine_reg_loss:1.9092340270678203  clf_loss:2.864055699772305 
+
+dataset:sdd epoch:124  total_loss:11.310961882273356  coarse_reg_loss:6.38618999057346  fine_reg_loss:2.066339989503225  clf_loss:2.8584317763646445 
+
+dataset:sdd epoch:125  total_loss:11.141297340393066  coarse_reg_loss:6.042846891615126  fine_reg_loss:2.1623528798421225  clf_loss:2.9360974497265286 
+
+dataset:sdd epoch:126  total_loss:10.615260601043701  coarse_reg_loss:5.791782551341587  fine_reg_loss:1.9137468470467462  clf_loss:2.909731043709649 
+
+dataset:sdd epoch:127  total_loss:10.232131428188747  coarse_reg_loss:5.824388941129048  fine_reg_loss:1.5248716407352023  clf_loss:2.8828707800971136 
+
+dataset:sdd epoch:128  total_loss:10.355659246444702  coarse_reg_loss:5.765671571095784  fine_reg_loss:1.7321291036076016  clf_loss:2.857858591609531 
+
+dataset:sdd epoch:129  total_loss:11.449100070529514  coarse_reg_loss:6.576270447836982  fine_reg_loss:1.9514840046564739  clf_loss:2.9213454723358154 
+
+dataset:sdd epoch:130  total_loss:11.273900243971083  coarse_reg_loss:6.787104381455316  fine_reg_loss:1.5710885491636064  clf_loss:2.9157074689865112 
+
+dataset:sdd epoch:131  total_loss:11.517089737786186  coarse_reg_loss:6.975773043102688  fine_reg_loss:1.636558085680008  clf_loss:2.9047585593329535 
+
+dataset:sdd epoch:132  total_loss:11.36457766426934  coarse_reg_loss:6.593004968431261  fine_reg_loss:1.783914049466451  clf_loss:2.987658659617106 
+
+dataset:sdd epoch:133  total_loss:11.196888658735487  coarse_reg_loss:6.141897360483806  fine_reg_loss:2.125643882486555  clf_loss:2.929347382651435 
+
+dataset:sdd epoch:134  total_loss:10.949954403771294  coarse_reg_loss:5.995355857743157  fine_reg_loss:2.0651650627454123  clf_loss:2.889433595869276 
+
+dataset:sdd epoch:135  total_loss:10.573149998982748  coarse_reg_loss:5.878134237395392  fine_reg_loss:1.841986940966712  clf_loss:2.8530289596981473 
+
+dataset:sdd epoch:136  total_loss:10.429199854532877  coarse_reg_loss:5.932725707689921  fine_reg_loss:1.678813378016154  clf_loss:2.8176609012815685 
+
+dataset:sdd epoch:137  total_loss:10.9102926519182  coarse_reg_loss:5.68331954214308  fine_reg_loss:2.4214052624172635  clf_loss:2.805567847357856 
+
+dataset:sdd epoch:138  total_loss:10.621038966708714  coarse_reg_loss:5.5693811310662165  fine_reg_loss:2.2383799420462713  clf_loss:2.813277761141459 
+
+dataset:sdd epoch:139  total_loss:10.189984136157566  coarse_reg_loss:5.6579932239320545  fine_reg_loss:1.7215861280759175  clf_loss:2.810404804017809 
+
+dataset:sdd epoch:140  total_loss:10.386600785785252  coarse_reg_loss:5.931257115470038  fine_reg_loss:1.6427034735679626  clf_loss:2.812640150388082 
+
+dataset:sdd epoch:141  total_loss:10.355635166168213  coarse_reg_loss:5.8477524518966675  fine_reg_loss:1.69041484925482  clf_loss:2.8174679544236927 
+
+dataset:sdd epoch:142  total_loss:10.877357641855875  coarse_reg_loss:6.282621622085571  fine_reg_loss:1.8143229418330722  clf_loss:2.7804131507873535 
+
+dataset:sdd epoch:143  total_loss:10.752872149149576  coarse_reg_loss:6.106236934661865  fine_reg_loss:1.8660950064659119  clf_loss:2.780540148417155 
+
+dataset:sdd epoch:144  total_loss:10.511374579535591  coarse_reg_loss:6.156948486963908  fine_reg_loss:1.5446185535854764  clf_loss:2.8098074197769165 
+
+dataset:sdd epoch:145  total_loss:9.993915239969889  coarse_reg_loss:5.752770119243198  fine_reg_loss:1.4727593925264146  clf_loss:2.7683856884638467 
+
+dataset:sdd epoch:146  total_loss:9.775515291425917  coarse_reg_loss:5.586476922035217  fine_reg_loss:1.4076749086380005  clf_loss:2.7813635402255588 
+
+dataset:sdd epoch:147  total_loss:9.732959164513481  coarse_reg_loss:5.5582470364040795  fine_reg_loss:1.4075290825631883  clf_loss:2.7671831051508584 
+
+dataset:sdd epoch:148  total_loss:9.94742594824897  coarse_reg_loss:5.618185864554511  fine_reg_loss:1.5635247296757169  clf_loss:2.7657152149412365 
+
+dataset:sdd epoch:149  total_loss:10.055504401524862  coarse_reg_loss:5.678454160690308  fine_reg_loss:1.628572576575809  clf_loss:2.74847768412696 
+
+dataset:sdd epoch:150  total_loss:10.18118699391683  coarse_reg_loss:5.686551239755419  fine_reg_loss:1.7438114351696439  clf_loss:2.750824398464627 
+
+dataset:sdd epoch:151  total_loss:10.724945253796047  coarse_reg_loss:5.850793388154772  fine_reg_loss:2.1420851283603244  clf_loss:2.732066525353326 
+
+dataset:sdd epoch:152  total_loss:10.540012253655327  coarse_reg_loss:5.62095061937968  fine_reg_loss:2.1755353212356567  clf_loss:2.7435264454947577 
+
+dataset:sdd epoch:153  total_loss:10.521634896596273  coarse_reg_loss:5.67351938618554  fine_reg_loss:2.091602881749471  clf_loss:2.7565126419067383 
+
+dataset:sdd epoch:154  total_loss:10.759033759435018  coarse_reg_loss:5.99607609377967  fine_reg_loss:2.0060839123196073  clf_loss:2.756873687108358 
+
+dataset:sdd epoch:155  total_loss:11.336768282784355  coarse_reg_loss:6.301534321573046  fine_reg_loss:2.256017949846056  clf_loss:2.7792160511016846 
+
+dataset:sdd epoch:156  total_loss:11.187271277109781  coarse_reg_loss:5.74177020125919  fine_reg_loss:2.6807435154914856  clf_loss:2.764757619963752 
+
+dataset:sdd epoch:157  total_loss:10.76920657687717  coarse_reg_loss:5.780617634455363  fine_reg_loss:2.2092197272512646  clf_loss:2.7793692350387573 
+
+dataset:sdd epoch:158  total_loss:10.127304553985596  coarse_reg_loss:5.65364056163364  fine_reg_loss:1.7296981182363298  clf_loss:2.7439657847086587 
+
+dataset:sdd epoch:159  total_loss:9.990402936935425  coarse_reg_loss:5.366210261980693  fine_reg_loss:1.8540303044848971  clf_loss:2.7701622512605457 
+
+dataset:sdd epoch:160  total_loss:10.039707448747423  coarse_reg_loss:5.394570098982917  fine_reg_loss:1.9170460767216153  clf_loss:2.7280912664201526 
+
+dataset:sdd epoch:161  total_loss:10.037205113304985  coarse_reg_loss:5.552079836527507  fine_reg_loss:1.7695461081133947  clf_loss:2.7155791256162853 
+
+dataset:sdd epoch:162  total_loss:10.546358770794338  coarse_reg_loss:5.826527873675029  fine_reg_loss:2.008165180683136  clf_loss:2.711665709813436 
+
+dataset:sdd epoch:163  total_loss:10.393184238009983  coarse_reg_loss:5.766639431317647  fine_reg_loss:1.9119392567210727  clf_loss:2.7146054903666177 
+
+dataset:sdd epoch:164  total_loss:9.944210025999281  coarse_reg_loss:5.637531545427111  fine_reg_loss:1.5814214083883498  clf_loss:2.7252570258246527 
+
+dataset:sdd epoch:165  total_loss:9.942988475163778  coarse_reg_loss:5.592896620432536  fine_reg_loss:1.631162292427487  clf_loss:2.7189294629626803 
+
+dataset:sdd epoch:166  total_loss:9.912262890073988  coarse_reg_loss:5.597214102745056  fine_reg_loss:1.5931415524747636  clf_loss:2.7219072182973227 
+
+dataset:sdd epoch:167  total_loss:9.684525648752848  coarse_reg_loss:5.504158483611213  fine_reg_loss:1.4553185237778559  clf_loss:2.725048542022705 
+
+dataset:sdd epoch:168  total_loss:9.643890274895561  coarse_reg_loss:5.581093496746487  fine_reg_loss:1.372826248407364  clf_loss:2.689970506562127 
+
+dataset:sdd epoch:169  total_loss:9.75655386182997  coarse_reg_loss:5.703742941220601  fine_reg_loss:1.3774883680873447  clf_loss:2.675322519408332 
+
+dataset:sdd epoch:170  total_loss:9.567751036749947  coarse_reg_loss:5.563450031810337  fine_reg_loss:1.3325022326575384  clf_loss:2.6717986398273044 
+
+dataset:sdd epoch:171  total_loss:9.619931009080675  coarse_reg_loss:5.4733503394656715  fine_reg_loss:1.4552048709657457  clf_loss:2.691375878122118 
+
+dataset:sdd epoch:172  total_loss:9.617296669218275  coarse_reg_loss:5.427120195494758  fine_reg_loss:1.519750350051456  clf_loss:2.6704260773128934 
+
+dataset:sdd epoch:173  total_loss:9.809194776746962  coarse_reg_loss:5.589514096577962  fine_reg_loss:1.547588523891237  clf_loss:2.6720922125710382 
+
+dataset:sdd epoch:174  total_loss:9.79062287012736  coarse_reg_loss:5.440777169333564  fine_reg_loss:1.6631147397889032  clf_loss:2.6867309146457248 
+
+dataset:sdd epoch:175  total_loss:9.855732679367065  coarse_reg_loss:5.522596478462219  fine_reg_loss:1.65537871254815  clf_loss:2.6777574486202664 
+
+dataset:sdd epoch:176  total_loss:9.882123019960192  coarse_reg_loss:5.417133145862156  fine_reg_loss:1.8012867503696017  clf_loss:2.6637030177646213 
+
+dataset:sdd epoch:177  total_loss:9.57475929790073  coarse_reg_loss:5.430560032526652  fine_reg_loss:1.4859785702493455  clf_loss:2.6582206620110407 
+
+dataset:sdd epoch:178  total_loss:10.395138343175253  coarse_reg_loss:5.962439934412639  fine_reg_loss:1.6031857927640278  clf_loss:2.829512529902988 
+
+dataset:sdd epoch:179  total_loss:10.590606848398844  coarse_reg_loss:6.0994022025002375  fine_reg_loss:1.544005937046475  clf_loss:2.947198602888319 
+
+dataset:sdd epoch:180  total_loss:10.39712013138665  coarse_reg_loss:5.965434167120192  fine_reg_loss:1.5056963993443384  clf_loss:2.925989548365275 
+
+dataset:sdd epoch:181  total_loss:10.155901670455933  coarse_reg_loss:5.820380846659343  fine_reg_loss:1.513761129644182  clf_loss:2.8217596875296698 
+
+dataset:sdd epoch:182  total_loss:10.682031260596382  coarse_reg_loss:5.874660200542873  fine_reg_loss:2.028516855504778  clf_loss:2.778854158189562 
+
+dataset:sdd epoch:183  total_loss:10.357647233539158  coarse_reg_loss:5.721352444754706  fine_reg_loss:1.9161118732558355  clf_loss:2.720182869169447 
+
+dataset:sdd epoch:184  total_loss:10.242551114824083  coarse_reg_loss:5.720917304356893  fine_reg_loss:1.7796725100941129  clf_loss:2.7419613334867687 
+
+dataset:sdd epoch:185  total_loss:9.91180059644911  coarse_reg_loss:5.616682529449463  fine_reg_loss:1.577329032950931  clf_loss:2.717789067162408 
+
+dataset:sdd epoch:186  total_loss:10.156413793563843  coarse_reg_loss:5.521674752235413  fine_reg_loss:1.9030566347969904  clf_loss:2.7316823270585804 
+
+dataset:sdd epoch:187  total_loss:10.649171670277914  coarse_reg_loss:5.778422594070435  fine_reg_loss:2.163143104977078  clf_loss:2.7076059182484946 
+
+dataset:sdd epoch:188  total_loss:9.975050237443712  coarse_reg_loss:5.5427747170130415  fine_reg_loss:1.7136557300885518  clf_loss:2.718619770473904 
+
+dataset:sdd epoch:189  total_loss:10.34670082728068  coarse_reg_loss:5.692166301939222  fine_reg_loss:1.9286693334579468  clf_loss:2.725865297847324 
+
+dataset:sdd epoch:190  total_loss:10.635582632488674  coarse_reg_loss:5.794216447406345  fine_reg_loss:2.1330051355891757  clf_loss:2.708361135588752 
+
+dataset:sdd epoch:191  total_loss:10.034772846433851  coarse_reg_loss:5.579919245507982  fine_reg_loss:1.7733529143863254  clf_loss:2.6815007395214505 
+
+dataset:sdd epoch:192  total_loss:10.476407898796928  coarse_reg_loss:5.901803016662598  fine_reg_loss:1.8143252465460036  clf_loss:2.760279734929403 
+
+dataset:sdd epoch:193  total_loss:9.772557708952162  coarse_reg_loss:5.635422719849481  fine_reg_loss:1.4195520877838135  clf_loss:2.7175828086005316 
+
+dataset:sdd epoch:194  total_loss:9.823781384362114  coarse_reg_loss:5.787129190233019  fine_reg_loss:1.318793836567137  clf_loss:2.717858327759637 
+
+dataset:sdd epoch:195  total_loss:10.309897926118639  coarse_reg_loss:5.796056561999851  fine_reg_loss:1.574558777941598  clf_loss:2.939282695452372 
+
+dataset:sdd epoch:196  total_loss:10.789412922329372  coarse_reg_loss:6.10223748948839  fine_reg_loss:1.792287011941274  clf_loss:2.894888440767924 
+
+dataset:sdd epoch:197  total_loss:10.278188970353868  coarse_reg_loss:5.9102113246917725  fine_reg_loss:1.5539253221617804  clf_loss:2.8140525155597262 
+
+dataset:sdd epoch:198  total_loss:9.969941165712145  coarse_reg_loss:5.748186998897129  fine_reg_loss:1.4143531223138173  clf_loss:2.807401074303521 
+
+dataset:sdd epoch:199  total_loss:9.927680783801609  coarse_reg_loss:5.777673443158467  fine_reg_loss:1.3851574891143374  clf_loss:2.764849993917677 
+
+dataset:sdd epoch:200  total_loss:9.621769693162706  coarse_reg_loss:5.595432029830085  fine_reg_loss:1.2748267253239949  clf_loss:2.7515108982721963 
+
+dataset:sdd epoch:201  total_loss:9.372057596842447  coarse_reg_loss:5.425611906581455  fine_reg_loss:1.2227448622385662  clf_loss:2.723700841267904 
+
+dataset:sdd epoch:202  total_loss:10.02608166800605  coarse_reg_loss:5.692542831103007  fine_reg_loss:1.628093828757604  clf_loss:2.705444892247518 
+
+dataset:sdd epoch:203  total_loss:10.388934108946058  coarse_reg_loss:6.010623322592841  fine_reg_loss:1.6948994133207533  clf_loss:2.6834114127688937 
+
+dataset:sdd epoch:204  total_loss:10.745525704489815  coarse_reg_loss:6.143995748625861  fine_reg_loss:1.8784875339931912  clf_loss:2.723042276170519 
+
+dataset:sdd epoch:205  total_loss:10.01009029812283  coarse_reg_loss:5.780064516597324  fine_reg_loss:1.5034289790524378  clf_loss:2.7265968985027738 
+
+dataset:sdd epoch:206  total_loss:9.947378741370308  coarse_reg_loss:5.5739661190244885  fine_reg_loss:1.6676140858067408  clf_loss:2.7057984140184193 
+
+dataset:sdd epoch:207  total_loss:9.955420917934841  coarse_reg_loss:5.686798599031237  fine_reg_loss:1.5390083425574832  clf_loss:2.7296140988667807 
+
+dataset:sdd epoch:208  total_loss:9.79058575630188  coarse_reg_loss:5.737971319092645  fine_reg_loss:1.3382445805602603  clf_loss:2.7143697473737927 
+
+dataset:sdd epoch:209  total_loss:9.883941358990139  coarse_reg_loss:5.6294744279649525  fine_reg_loss:1.5459245079093509  clf_loss:2.7085422939724393 
+
+dataset:sdd epoch:210  total_loss:10.078766822814941  coarse_reg_loss:5.635603043768141  fine_reg_loss:1.7454827891455755  clf_loss:2.697681016392178 
+
+dataset:sdd epoch:211  total_loss:9.86481401655409  coarse_reg_loss:5.497411330540975  fine_reg_loss:1.678990410433875  clf_loss:2.6884121894836426 
+
+dataset:sdd epoch:212  total_loss:9.749936792585585  coarse_reg_loss:5.748879604869419  fine_reg_loss:1.353334089120229  clf_loss:2.647723184691535 
+
+dataset:sdd epoch:213  total_loss:9.63532657093472  coarse_reg_loss:5.589941620826721  fine_reg_loss:1.3987840579615698  clf_loss:2.6466009087032742 
+
+dataset:sdd epoch:214  total_loss:10.080671336915758  coarse_reg_loss:5.6269658009211225  fine_reg_loss:1.7959622873200312  clf_loss:2.6577431758244834 
+
+dataset:sdd epoch:215  total_loss:10.13430995411343  coarse_reg_loss:5.581974546114604  fine_reg_loss:1.91647873322169  clf_loss:2.6358567741182117 
+
+dataset:sdd epoch:216  total_loss:9.975803057352701  coarse_reg_loss:5.4641703897052345  fine_reg_loss:1.8891496459643047  clf_loss:2.622482975323995 
+
+dataset:sdd epoch:217  total_loss:10.037612835566202  coarse_reg_loss:5.475617435243395  fine_reg_loss:1.9452574716673956  clf_loss:2.6167380147510104 
+
+dataset:sdd epoch:218  total_loss:9.765374925401476  coarse_reg_loss:5.347279495663113  fine_reg_loss:1.798167261812422  clf_loss:2.6199282540215387 
+
+dataset:sdd epoch:219  total_loss:9.670625554190742  coarse_reg_loss:5.282173077265422  fine_reg_loss:1.7624255584345923  clf_loss:2.626026895311144 
+
+dataset:sdd epoch:220  total_loss:9.33813926908705  coarse_reg_loss:5.311706887351142  fine_reg_loss:1.4031886392169528  clf_loss:2.6232437425189548 
+
+dataset:sdd epoch:221  total_loss:9.374849345948961  coarse_reg_loss:5.4704808129204645  fine_reg_loss:1.2519107394748263  clf_loss:2.6524578200446234 
+
+dataset:sdd epoch:222  total_loss:9.517946985032824  coarse_reg_loss:5.451058665911357  fine_reg_loss:1.4389898578325908  clf_loss:2.6278984546661377 
+
+dataset:sdd epoch:223  total_loss:9.361328257454765  coarse_reg_loss:5.4880847401089135  fine_reg_loss:1.2369895974795024  clf_loss:2.636253913243612 
+
+dataset:sdd epoch:224  total_loss:9.467520183987087  coarse_reg_loss:5.251001874605815  fine_reg_loss:1.5662457313802507  clf_loss:2.650272634294298 
+
+dataset:sdd epoch:225  total_loss:9.555717335806953  coarse_reg_loss:5.384306285116407  fine_reg_loss:1.5147709051767986  clf_loss:2.6566401720046997 
+
+dataset:sdd epoch:226  total_loss:9.88489564259847  coarse_reg_loss:5.342482262187534  fine_reg_loss:1.8894583781560261  clf_loss:2.6529549625184803 
+
+dataset:sdd epoch:227  total_loss:9.791401306788126  coarse_reg_loss:5.6081986162397595  fine_reg_loss:1.5714169773790572  clf_loss:2.611785742971632 
+
+dataset:sdd epoch:228  total_loss:9.362970881991917  coarse_reg_loss:5.4305803245968285  fine_reg_loss:1.3175199031829834  clf_loss:2.6148706674575806 
+
+dataset:sdd epoch:229  total_loss:9.38886374897427  coarse_reg_loss:5.27911897500356  fine_reg_loss:1.5158968733416662  clf_loss:2.5938479635450573 
+
+dataset:sdd epoch:230  total_loss:9.643713447782728  coarse_reg_loss:5.369680590099758  fine_reg_loss:1.669634570678075  clf_loss:2.604398330052694 
+
+dataset:sdd epoch:231  total_loss:9.40555837419298  coarse_reg_loss:5.182138191329108  fine_reg_loss:1.6277780665291681  clf_loss:2.5956420501073203 
+
+dataset:sdd epoch:232  total_loss:9.11040096812778  coarse_reg_loss:5.1955187982983055  fine_reg_loss:1.316717439227634  clf_loss:2.598164783583747 
+
+dataset:sdd epoch:233  total_loss:9.487083805931938  coarse_reg_loss:5.069540394677056  fine_reg_loss:1.8246152533425226  clf_loss:2.592928091684977 
+
+dataset:sdd epoch:234  total_loss:9.380673064125908  coarse_reg_loss:5.156460285186768  fine_reg_loss:1.5876868400308821  clf_loss:2.6365259753333197 
+
+dataset:sdd epoch:235  total_loss:9.144067260954115  coarse_reg_loss:5.0911292632420855  fine_reg_loss:1.4293054805861578  clf_loss:2.62363248401218 
+
+dataset:sdd epoch:236  total_loss:9.545047203699747  coarse_reg_loss:5.261388407813178  fine_reg_loss:1.65220731165674  clf_loss:2.6314513550864325 
+
+dataset:sdd epoch:237  total_loss:10.027742783228556  coarse_reg_loss:5.634819123480055  fine_reg_loss:1.7491065959135692  clf_loss:2.643817040655348 
+
+dataset:sdd epoch:238  total_loss:9.84610194630093  coarse_reg_loss:5.6042710940043134  fine_reg_loss:1.5858696632915072  clf_loss:2.655961195627848 
+
+dataset:sdd epoch:239  total_loss:9.401329278945923  coarse_reg_loss:5.450795478290981  fine_reg_loss:1.323021994696723  clf_loss:2.627511885431078 
+
+dataset:sdd epoch:240  total_loss:9.414421425925362  coarse_reg_loss:5.270196265644497  fine_reg_loss:1.5315908922089472  clf_loss:2.612634287940131 
+
+dataset:sdd epoch:241  total_loss:9.640832238727146  coarse_reg_loss:5.37905748685201  fine_reg_loss:1.659929672876994  clf_loss:2.601844999525282 
+
+dataset:sdd epoch:242  total_loss:9.399922211964926  coarse_reg_loss:5.245545652177599  fine_reg_loss:1.5258629255824618  clf_loss:2.6285137467914157 
+
+dataset:sdd epoch:243  total_loss:9.530428091684977  coarse_reg_loss:5.412102262179057  fine_reg_loss:1.4267442557546828  clf_loss:2.6915816598468356 
+
+dataset:sdd epoch:244  total_loss:9.356237411499023  coarse_reg_loss:5.470727218521966  fine_reg_loss:1.240253272983763  clf_loss:2.645256903436449 
+
+dataset:sdd epoch:245  total_loss:9.566024197472466  coarse_reg_loss:5.605205270979139  fine_reg_loss:1.3379711177614  clf_loss:2.622847941186693 
+
+dataset:sdd epoch:246  total_loss:9.638848702112833  coarse_reg_loss:5.527762691179912  fine_reg_loss:1.5055255128277674  clf_loss:2.6055604616800943 
+
+dataset:sdd epoch:247  total_loss:9.55700413386027  coarse_reg_loss:5.449868851237827  fine_reg_loss:1.4888839191860623  clf_loss:2.6182513766818576 
+
+dataset:sdd epoch:248  total_loss:9.32770331700643  coarse_reg_loss:5.291518754429287  fine_reg_loss:1.4059571491347418  clf_loss:2.630227486292521 
+
+dataset:sdd epoch:249  total_loss:9.355244027243721  coarse_reg_loss:5.2445681889851885  fine_reg_loss:1.4870740804407332  clf_loss:2.623601688279046 
+
+dataset:sdd epoch:250  total_loss:9.65686845779419  coarse_reg_loss:5.444135824839274  fine_reg_loss:1.5589750077989366  clf_loss:2.6537575721740723 
+
+dataset:sdd epoch:251  total_loss:9.143833451800877  coarse_reg_loss:5.080493794547187  fine_reg_loss:1.4441977739334106  clf_loss:2.6191419098112316 
+
+dataset:sdd epoch:252  total_loss:8.988181988398233  coarse_reg_loss:4.962819125917223  fine_reg_loss:1.4250277479489644  clf_loss:2.600335134400262 
+
+dataset:sdd epoch:253  total_loss:9.042197704315186  coarse_reg_loss:5.082721763186985  fine_reg_loss:1.3730650047461193  clf_loss:2.586410880088806 
+
+dataset:sdd epoch:254  total_loss:9.38912836710612  coarse_reg_loss:5.305354105101691  fine_reg_loss:1.5037739011976454  clf_loss:2.580000228352017 
+
+dataset:sdd epoch:255  total_loss:9.327482806311714  coarse_reg_loss:5.419443051020305  fine_reg_loss:1.3208255999618106  clf_loss:2.587214059299893 
+
+dataset:sdd epoch:256  total_loss:9.758366531795925  coarse_reg_loss:5.736841440200806  fine_reg_loss:1.4288013246324327  clf_loss:2.5927238729265003 
+
+dataset:sdd epoch:257  total_loss:9.28991831673516  coarse_reg_loss:5.341763019561768  fine_reg_loss:1.3424504299958546  clf_loss:2.605704810884264 
+
+dataset:sdd epoch:258  total_loss:8.942498048146566  coarse_reg_loss:5.229351586765713  fine_reg_loss:1.1145667433738708  clf_loss:2.5985798041025796 
+
+dataset:sdd epoch:259  total_loss:9.17135869132148  coarse_reg_loss:5.3094130092197  fine_reg_loss:1.2812926438119676  clf_loss:2.580652912457784 
+
+dataset:sdd epoch:260  total_loss:9.438264767328898  coarse_reg_loss:5.476336545414394  fine_reg_loss:1.3701234426763322  clf_loss:2.591804769304064 
+
+dataset:sdd epoch:261  total_loss:9.292426692114937  coarse_reg_loss:5.395456552505493  fine_reg_loss:1.322337372435464  clf_loss:2.5746328035990396 
+
+dataset:sdd epoch:262  total_loss:9.035493506325615  coarse_reg_loss:5.30098901854621  fine_reg_loss:1.1545578704939947  clf_loss:2.5799467298719616 
+
+dataset:sdd epoch:263  total_loss:9.647506184048122  coarse_reg_loss:5.814987156126234  fine_reg_loss:1.1393069161309137  clf_loss:2.6932120853000217 
+
+dataset:sdd epoch:264  total_loss:10.504503197140163  coarse_reg_loss:6.244274377822876  fine_reg_loss:1.2226832409699757  clf_loss:3.0375455617904663 
+
+dataset:sdd epoch:265  total_loss:10.75445286432902  coarse_reg_loss:6.42251443862915  fine_reg_loss:1.410469326708052  clf_loss:2.9214691321055093 
+
+dataset:sdd epoch:266  total_loss:10.369846026102701  coarse_reg_loss:6.079880502488878  fine_reg_loss:1.4684365060594347  clf_loss:2.821528924836053 
+
+dataset:sdd epoch:267  total_loss:10.43190926975674  coarse_reg_loss:5.882493853569031  fine_reg_loss:1.7709235747655232  clf_loss:2.7784917884402804 
+
+dataset:sdd epoch:268  total_loss:10.666142675611708  coarse_reg_loss:5.717378311687046  fine_reg_loss:2.2211010257403054  clf_loss:2.7276633580525718 
+
+dataset:sdd epoch:269  total_loss:9.720724794599745  coarse_reg_loss:5.416760603586833  fine_reg_loss:1.619910654094484  clf_loss:2.6840534475114612 
+
+dataset:sdd epoch:270  total_loss:9.361240413453844  coarse_reg_loss:5.238981326421102  fine_reg_loss:1.4458544121848211  clf_loss:2.6764046351114907 
+
+dataset:sdd epoch:271  total_loss:8.568886253568861  coarse_reg_loss:5.000567078590393  fine_reg_loss:0.9512763851218753  clf_loss:2.617042885886298 
+
+dataset:sdd epoch:272  total_loss:8.405940612157186  coarse_reg_loss:4.969454964001973  fine_reg_loss:0.8519194788402982  clf_loss:2.584566262033251 
+
+dataset:sdd epoch:273  total_loss:8.314493232303196  coarse_reg_loss:4.842226015196906  fine_reg_loss:0.9089855485492282  clf_loss:2.5632817877663507 
+
+dataset:sdd epoch:274  total_loss:8.161921474668715  coarse_reg_loss:4.768465028868781  fine_reg_loss:0.832414565814866  clf_loss:2.561041964424981 
+
+dataset:sdd epoch:275  total_loss:8.793714735243055  coarse_reg_loss:5.162819120619032  fine_reg_loss:0.8969321780734592  clf_loss:2.7339634233050876 
+
+dataset:sdd epoch:276  total_loss:15.834857039981419  coarse_reg_loss:9.105258067448935  fine_reg_loss:1.4204256335894268  clf_loss:5.309173358811273 
+
+dataset:sdd epoch:277  total_loss:12.396544827355278  coarse_reg_loss:7.425961785846287  fine_reg_loss:1.0929293202029333  clf_loss:3.8776538239585028 
+
+dataset:sdd epoch:278  total_loss:11.529138194190132  coarse_reg_loss:7.0407627953423395  fine_reg_loss:0.9925176898638407  clf_loss:3.4958577950795493 
+
+dataset:sdd epoch:279  total_loss:11.269923316107857  coarse_reg_loss:7.147545072767469  fine_reg_loss:0.8595509164863162  clf_loss:3.2628274493747287 
+
+dataset:sdd epoch:280  total_loss:11.338177363077799  coarse_reg_loss:6.957431395848592  fine_reg_loss:0.8964993721908994  clf_loss:3.4842464923858643 
+
+dataset:sdd epoch:281  total_loss:10.096797943115234  coarse_reg_loss:6.2086789343092175  fine_reg_loss:0.7806483970748054  clf_loss:3.1074706315994263 
+
+dataset:sdd epoch:282  total_loss:9.592264201905992  coarse_reg_loss:5.84903249475691  fine_reg_loss:0.7800320436557134  clf_loss:2.9631996949513755 
+
+dataset:sdd epoch:283  total_loss:9.630863481097752  coarse_reg_loss:5.92183788617452  fine_reg_loss:0.7696317831675211  clf_loss:2.9393938647376165 
+
+dataset:sdd epoch:284  total_loss:9.549524890051948  coarse_reg_loss:5.78619462913937  fine_reg_loss:0.8417567643854353  clf_loss:2.9215735594431558 
+
+dataset:sdd epoch:285  total_loss:9.21419072151184  coarse_reg_loss:5.650235109859043  fine_reg_loss:0.7393282353878021  clf_loss:2.824627333217197 
+
+dataset:sdd epoch:286  total_loss:9.096110741297403  coarse_reg_loss:5.561879144774543  fine_reg_loss:0.7573416067494286  clf_loss:2.776890065934923 
+
+dataset:sdd epoch:287  total_loss:9.080672105153402  coarse_reg_loss:5.5311871899498835  fine_reg_loss:0.7714774310588837  clf_loss:2.7780074808332653 
+
+dataset:sdd epoch:288  total_loss:9.065805382198757  coarse_reg_loss:5.453372438748677  fine_reg_loss:0.8385256131490072  clf_loss:2.7739075819651284 
+
+dataset:sdd epoch:289  total_loss:9.084319114685059  coarse_reg_loss:5.396392862002055  fine_reg_loss:0.8808920019202762  clf_loss:2.8070341216193304 
+
+dataset:sdd epoch:290  total_loss:8.930009126663208  coarse_reg_loss:5.372773793008593  fine_reg_loss:0.7862000548177295  clf_loss:2.771035313606262 
+
+dataset:sdd epoch:291  total_loss:9.035576105117798  coarse_reg_loss:5.4129387802547875  fine_reg_loss:0.8803231981065538  clf_loss:2.7423140737745495 
+
+dataset:sdd epoch:292  total_loss:8.813153743743896  coarse_reg_loss:5.254632406764561  fine_reg_loss:0.8390046026971605  clf_loss:2.719516634941101 
+
+dataset:sdd epoch:293  total_loss:8.651943498187595  coarse_reg_loss:5.162384655740526  fine_reg_loss:0.794196155336168  clf_loss:2.695362673865424 
+
+dataset:sdd epoch:294  total_loss:8.701648871103922  coarse_reg_loss:5.144451154602899  fine_reg_loss:0.8700145416789584  clf_loss:2.687183207935757 
+
+dataset:sdd epoch:295  total_loss:8.621862279044258  coarse_reg_loss:5.147362603081597  fine_reg_loss:0.8275204632017348  clf_loss:2.6469790670606823 
+
+dataset:sdd epoch:296  total_loss:8.66494263543023  coarse_reg_loss:5.211087425549825  fine_reg_loss:0.8062383102046119  clf_loss:2.6476170089509754 
+
+dataset:sdd epoch:297  total_loss:8.596526145935059  coarse_reg_loss:5.161535157097711  fine_reg_loss:0.7997247642940946  clf_loss:2.6352661980523004 
+
+dataset:sdd epoch:298  total_loss:8.676324897342258  coarse_reg_loss:5.173085490862529  fine_reg_loss:0.8380302488803864  clf_loss:2.6652092138926187 
+
+dataset:sdd epoch:299  total_loss:8.453146643108791  coarse_reg_loss:5.02516147825453  fine_reg_loss:0.7732473529047437  clf_loss:2.6547378301620483 
+
+dataset:sdd epoch:300  total_loss:8.353027529186672  coarse_reg_loss:4.958002712991503  fine_reg_loss:0.7655100325743357  clf_loss:2.6295147471957736 
+
+dataset:sdd epoch:301  total_loss:8.37572455406189  coarse_reg_loss:4.902589109208849  fine_reg_loss:0.8554328315787845  clf_loss:2.6177025503582425 
+
+dataset:sdd epoch:302  total_loss:8.29684951570299  coarse_reg_loss:4.94203433725569  fine_reg_loss:0.7202676816119088  clf_loss:2.634547472000122 
+
+dataset:sdd epoch:303  total_loss:8.254595200220743  coarse_reg_loss:4.923746307690938  fine_reg_loss:0.7068174199925529  clf_loss:2.6240315039952598 
+
+dataset:sdd epoch:304  total_loss:8.327379597557915  coarse_reg_loss:4.94668075773451  fine_reg_loss:0.792392729057206  clf_loss:2.5883060561286078 
+
+dataset:sdd epoch:305  total_loss:8.264395607842339  coarse_reg_loss:4.925598912768894  fine_reg_loss:0.7385569049252404  clf_loss:2.600239806705051 
+
+dataset:sdd epoch:306  total_loss:8.349513822131687  coarse_reg_loss:4.923689961433411  fine_reg_loss:0.8118328038189147  clf_loss:2.6139911678102283 
+
+dataset:sdd epoch:307  total_loss:8.163196643193563  coarse_reg_loss:4.773988604545593  fine_reg_loss:0.7599025898509555  clf_loss:2.629305428928799 
+
+dataset:sdd epoch:308  total_loss:8.164192888471815  coarse_reg_loss:4.800235231717427  fine_reg_loss:0.7514443861113654  clf_loss:2.6125133170021906 
+
+dataset:sdd epoch:309  total_loss:8.23524906900194  coarse_reg_loss:4.894375403722127  fine_reg_loss:0.7367120633522669  clf_loss:2.6041615936491223 
+
+dataset:sdd epoch:310  total_loss:8.292886628044975  coarse_reg_loss:4.908756150139703  fine_reg_loss:0.7183202306429545  clf_loss:2.665810293621487 
+
+dataset:sdd epoch:311  total_loss:8.401225010553995  coarse_reg_loss:4.953859329223633  fine_reg_loss:0.7491393122408125  clf_loss:2.6982263326644897 
+
+dataset:sdd epoch:312  total_loss:8.470384147432116  coarse_reg_loss:4.87670820289188  fine_reg_loss:0.8160948952039083  clf_loss:2.777581055959066 
+
+dataset:sdd epoch:313  total_loss:8.581874264611137  coarse_reg_loss:5.014966130256653  fine_reg_loss:0.8233054263724221  clf_loss:2.7436027659310236 
+
+dataset:sdd epoch:314  total_loss:8.31898906495836  coarse_reg_loss:4.850850568877326  fine_reg_loss:0.8043722344769372  clf_loss:2.663766384124756 
+
+dataset:sdd epoch:315  total_loss:8.24906717406379  coarse_reg_loss:4.787859280904134  fine_reg_loss:0.8131416605578529  clf_loss:2.6480662955178156 
+
+dataset:sdd epoch:316  total_loss:8.269411855273777  coarse_reg_loss:4.819791224267748  fine_reg_loss:0.8039251334137387  clf_loss:2.645695434676276 
+
+dataset:sdd epoch:317  total_loss:8.252563026216295  coarse_reg_loss:4.818703836864895  fine_reg_loss:0.8162744409508176  clf_loss:2.617584745089213 
+
+dataset:sdd epoch:318  total_loss:8.227965778774685  coarse_reg_loss:4.716031538115607  fine_reg_loss:0.9096484118037753  clf_loss:2.602285901705424 
+
+dataset:sdd epoch:319  total_loss:8.022431426578098  coarse_reg_loss:4.624110791418287  fine_reg_loss:0.8164498011271158  clf_loss:2.581870847278171 
+
+dataset:sdd epoch:320  total_loss:7.918978373209636  coarse_reg_loss:4.6282325983047485  fine_reg_loss:0.7060827811559042  clf_loss:2.584663006994459 
+
+dataset:sdd epoch:321  total_loss:8.528202215830484  coarse_reg_loss:4.929245683881971  fine_reg_loss:0.7853881948524051  clf_loss:2.813568287425571 
+
+dataset:sdd epoch:322  total_loss:8.824939833747017  coarse_reg_loss:5.227995038032532  fine_reg_loss:0.7851090513997607  clf_loss:2.811835765838623 
+
+dataset:sdd epoch:323  total_loss:8.529274463653564  coarse_reg_loss:5.027350809839037  fine_reg_loss:0.789456362525622  clf_loss:2.712467392285665 
+
+dataset:sdd epoch:324  total_loss:8.32697746488783  coarse_reg_loss:4.830729895167881  fine_reg_loss:0.8370625211132897  clf_loss:2.6591850254270764 
+
+dataset:sdd epoch:325  total_loss:8.297514332665337  coarse_reg_loss:4.6975653701358375  fine_reg_loss:0.9790423413117727  clf_loss:2.6209066841337414 
+
+dataset:sdd epoch:326  total_loss:8.258470111423069  coarse_reg_loss:4.758696953455607  fine_reg_loss:0.8894746998945872  clf_loss:2.6102985938390098 
+
+dataset:sdd epoch:327  total_loss:8.218176709281074  coarse_reg_loss:4.698803544044495  fine_reg_loss:0.9354686439037323  clf_loss:2.5839045378896923 
+
+dataset:sdd epoch:328  total_loss:8.130465984344482  coarse_reg_loss:4.625707957479689  fine_reg_loss:0.9110325508647494  clf_loss:2.593725389904446 
+
+dataset:sdd epoch:329  total_loss:8.244290563795301  coarse_reg_loss:4.691723412937588  fine_reg_loss:0.9546577533086141  clf_loss:2.5979093975490994 
+
+dataset:sdd epoch:330  total_loss:8.219378021028307  coarse_reg_loss:4.6534567144181995  fine_reg_loss:0.9756363994545407  clf_loss:2.5902849038441977 
+
+dataset:sdd epoch:331  total_loss:8.318735573026869  coarse_reg_loss:4.791067759195964  fine_reg_loss:0.9391213125652738  clf_loss:2.588546541002062 
+
+dataset:sdd epoch:332  total_loss:8.29811159769694  coarse_reg_loss:4.778842171033223  fine_reg_loss:0.93870081504186  clf_loss:2.5805686712265015 
+
+dataset:sdd epoch:333  total_loss:8.08158834775289  coarse_reg_loss:4.643087877167596  fine_reg_loss:0.8754194478193918  clf_loss:2.5630809466044107 
+
+dataset:sdd epoch:334  total_loss:7.975696484247844  coarse_reg_loss:4.631339920891656  fine_reg_loss:0.7848168909549713  clf_loss:2.5595396624671087 
+
+dataset:sdd epoch:335  total_loss:8.148516045676338  coarse_reg_loss:4.6500013669331866  fine_reg_loss:0.95221722457144  clf_loss:2.54629745748308 
+
+dataset:sdd epoch:336  total_loss:8.162477360831367  coarse_reg_loss:4.6099251376258  fine_reg_loss:0.9937517179383172  clf_loss:2.5588004655308194 
+
+dataset:sdd epoch:337  total_loss:7.977896557913886  coarse_reg_loss:4.565826919343737  fine_reg_loss:0.8565127518441942  clf_loss:2.555556893348694 
+
+dataset:sdd epoch:338  total_loss:8.130482302771675  coarse_reg_loss:4.690714253319634  fine_reg_loss:0.8822132431798511  clf_loss:2.557554907268948 
+
+dataset:sdd epoch:339  total_loss:8.312687794367472  coarse_reg_loss:4.707790308528477  fine_reg_loss:1.0475581188996632  clf_loss:2.557339350382487 
+
+dataset:sdd epoch:340  total_loss:8.31294716729058  coarse_reg_loss:4.760707007514106  fine_reg_loss:0.975427915652593  clf_loss:2.576812267303467 
+
+dataset:sdd epoch:341  total_loss:8.211785899268257  coarse_reg_loss:4.621277663442823  fine_reg_loss:1.0378018352720473  clf_loss:2.5527064005533853 
+
+dataset:sdd epoch:342  total_loss:7.968621148003472  coarse_reg_loss:4.549008978737725  fine_reg_loss:0.8621012137995826  clf_loss:2.557510945532057 
+
+dataset:sdd epoch:343  total_loss:7.876690599653456  coarse_reg_loss:4.551609794298808  fine_reg_loss:0.7768207093079885  clf_loss:2.5482601589626737 
+
+dataset:sdd epoch:344  total_loss:7.828982671101888  coarse_reg_loss:4.536772767702739  fine_reg_loss:0.76070712837908  clf_loss:2.5315027634302774 
+
+dataset:sdd epoch:345  total_loss:7.731653928756714  coarse_reg_loss:4.459026614824931  fine_reg_loss:0.7563766042391459  clf_loss:2.5162507428063288 
+
+dataset:sdd epoch:346  total_loss:7.546297788619995  coarse_reg_loss:4.351351512802972  fine_reg_loss:0.6820928206046423  clf_loss:2.5128532780541315 
+
+dataset:sdd epoch:347  total_loss:7.675857517454359  coarse_reg_loss:4.3841416173511085  fine_reg_loss:0.7687249448564317  clf_loss:2.5229909552468195 
+
+dataset:sdd epoch:348  total_loss:7.744217183854845  coarse_reg_loss:4.3429284360673694  fine_reg_loss:0.8809995121426053  clf_loss:2.5202891495492725 
+
+dataset:sdd epoch:349  total_loss:7.840061664581299  coarse_reg_loss:4.446217444207933  fine_reg_loss:0.8926863206757439  clf_loss:2.5011579857932196 
+
+dataset:sdd epoch:350  total_loss:7.76622388097975  coarse_reg_loss:4.502146138085259  fine_reg_loss:0.7564853777488073  clf_loss:2.5075923204421997 
+
+dataset:sdd epoch:351  total_loss:7.736884435017903  coarse_reg_loss:4.489259415202671  fine_reg_loss:0.7426361226373248  clf_loss:2.504988968372345 
+
+dataset:sdd epoch:352  total_loss:7.806745423210992  coarse_reg_loss:4.501424882147047  fine_reg_loss:0.7688250641028086  clf_loss:2.5364955398771496 
+
+dataset:sdd epoch:353  total_loss:7.769339720408122  coarse_reg_loss:4.522783001263936  fine_reg_loss:0.7059968693388833  clf_loss:2.540559861395094 
+
+dataset:sdd epoch:354  total_loss:7.71221857600742  coarse_reg_loss:4.42817763487498  fine_reg_loss:0.7182311200433307  clf_loss:2.5658098459243774 
+
+dataset:sdd epoch:355  total_loss:7.753483533859253  coarse_reg_loss:4.465941945711772  fine_reg_loss:0.7224966800875134  clf_loss:2.565044893158807 
+
+dataset:sdd epoch:356  total_loss:7.78335256046719  coarse_reg_loss:4.490476330121358  fine_reg_loss:0.7546040945582919  clf_loss:2.538272109296587 
+
+dataset:sdd epoch:357  total_loss:7.704024844699436  coarse_reg_loss:4.395720521608989  fine_reg_loss:0.7848913338449266  clf_loss:2.523413062095642 
+
+dataset:sdd epoch:358  total_loss:7.749678161409166  coarse_reg_loss:4.427460895644294  fine_reg_loss:0.8076317111651102  clf_loss:2.5145855810907154 
+
+dataset:sdd epoch:359  total_loss:7.904644780688816  coarse_reg_loss:4.505550967322455  fine_reg_loss:0.8618127803007761  clf_loss:2.5372811026043363 
+
+dataset:sdd epoch:360  total_loss:8.104945421218872  coarse_reg_loss:4.4884518252478705  fine_reg_loss:1.0965846445825365  clf_loss:2.51990889178382 
+
+dataset:sdd epoch:361  total_loss:7.8682736025916205  coarse_reg_loss:4.420955220858256  fine_reg_loss:0.9314901431401571  clf_loss:2.5158283048205905 
+
+dataset:sdd epoch:362  total_loss:7.846080223719279  coarse_reg_loss:4.400341351826985  fine_reg_loss:0.9127284785111746  clf_loss:2.5330103966924877 
+
+dataset:sdd epoch:363  total_loss:7.877243174446954  coarse_reg_loss:4.393091850810581  fine_reg_loss:0.9498441517353058  clf_loss:2.534307175212436 
+
+dataset:sdd epoch:364  total_loss:7.804116222593519  coarse_reg_loss:4.411198258399963  fine_reg_loss:0.8724721438354917  clf_loss:2.5204458634058633 
+
+dataset:sdd epoch:365  total_loss:7.898504442638821  coarse_reg_loss:4.387410283088684  fine_reg_loss:0.9827648765510983  clf_loss:2.5283293061786227 
+
+dataset:sdd epoch:366  total_loss:7.874130566914876  coarse_reg_loss:4.387554354137844  fine_reg_loss:0.9567786488268111  clf_loss:2.5297975142796836 
+
+dataset:sdd epoch:367  total_loss:7.949510388904148  coarse_reg_loss:4.4281200832790795  fine_reg_loss:0.9835679464870029  clf_loss:2.5378223525153265 
+
+dataset:sdd epoch:368  total_loss:7.678487247890896  coarse_reg_loss:4.346034566561381  fine_reg_loss:0.8263121263848411  clf_loss:2.506140496995714 
+
+dataset:sdd epoch:369  total_loss:7.758550379011366  coarse_reg_loss:4.421479649013943  fine_reg_loss:0.8376314342021942  clf_loss:2.499439345465766 
+
+dataset:sdd epoch:370  total_loss:7.579619937472874  coarse_reg_loss:4.283011780844794  fine_reg_loss:0.8037800855106778  clf_loss:2.492828150590261 
+
+dataset:sdd epoch:371  total_loss:7.830249018139309  coarse_reg_loss:4.344330430030823  fine_reg_loss:0.9926987588405609  clf_loss:2.4932197862201266 
+
+dataset:sdd epoch:372  total_loss:7.6861859692467585  coarse_reg_loss:4.33659831682841  fine_reg_loss:0.8558359576596154  clf_loss:2.4937517444292703 
+
+dataset:sdd epoch:373  total_loss:7.706442091200087  coarse_reg_loss:4.434982419013977  fine_reg_loss:0.7643143634001414  clf_loss:2.507145298851861 
+
+dataset:sdd epoch:374  total_loss:7.630088249842326  coarse_reg_loss:4.309970882203844  fine_reg_loss:0.7967843446466658  clf_loss:2.5233329468303256 
+
+dataset:sdd epoch:375  total_loss:7.576201968722874  coarse_reg_loss:4.271924561924404  fine_reg_loss:0.7985041406419542  clf_loss:2.505773272779253 
+
+dataset:sdd epoch:376  total_loss:7.469294945398967  coarse_reg_loss:4.204344299104479  fine_reg_loss:0.7653107444445292  clf_loss:2.4996399548318653 
+
+dataset:sdd epoch:377  total_loss:7.3597687350379095  coarse_reg_loss:4.123034543461269  fine_reg_loss:0.7193062769042121  clf_loss:2.517427921295166 
+
+dataset:sdd epoch:378  total_loss:7.410887241363525  coarse_reg_loss:4.17916198571523  fine_reg_loss:0.7344750116268793  clf_loss:2.497250179449717 
+
+dataset:sdd epoch:379  total_loss:7.443276246388753  coarse_reg_loss:4.176643186145359  fine_reg_loss:0.7656455321444405  clf_loss:2.5009875297546387 
+
+dataset:sdd epoch:380  total_loss:7.447209199269612  coarse_reg_loss:4.218022743860881  fine_reg_loss:0.722361198729939  clf_loss:2.5068253013822765 
+
+dataset:sdd epoch:381  total_loss:7.544299999872844  coarse_reg_loss:4.304418921470642  fine_reg_loss:0.7385555025604036  clf_loss:2.501325527826945 
+
+dataset:sdd epoch:382  total_loss:7.688155651092529  coarse_reg_loss:4.39984667301178  fine_reg_loss:0.7953663998179965  clf_loss:2.4929425650172763 
+
+dataset:sdd epoch:383  total_loss:7.949311971664429  coarse_reg_loss:4.535972555478414  fine_reg_loss:0.9153314232826233  clf_loss:2.49800803926256 
+
+dataset:sdd epoch:384  total_loss:8.188410229153103  coarse_reg_loss:4.671175453397963  fine_reg_loss:0.9998453325695462  clf_loss:2.5173895094129772 
+
+dataset:sdd epoch:385  total_loss:7.968542257944743  coarse_reg_loss:4.5686166816287574  fine_reg_loss:0.8552257286177741  clf_loss:2.54469985432095 
+
+dataset:sdd epoch:386  total_loss:7.794465939203898  coarse_reg_loss:4.509385095702277  fine_reg_loss:0.7816837893591987  clf_loss:2.5033971269925437 
+
+dataset:sdd epoch:387  total_loss:7.539200332429674  coarse_reg_loss:4.342743357022603  fine_reg_loss:0.7191977269119687  clf_loss:2.4772592584292092 
+
+dataset:sdd epoch:388  total_loss:7.537625895606147  coarse_reg_loss:4.303819802072313  fine_reg_loss:0.74088787039121  clf_loss:2.4929181469811335 
+
+dataset:sdd epoch:389  total_loss:7.482609272003174  coarse_reg_loss:4.270218915409512  fine_reg_loss:0.7188865592082342  clf_loss:2.493503795729743 
+
+dataset:sdd epoch:390  total_loss:7.391280810038249  coarse_reg_loss:4.173335035641988  fine_reg_loss:0.7358065479331546  clf_loss:2.482139309247335 
+
+dataset:sdd epoch:391  total_loss:7.559464004304674  coarse_reg_loss:4.28876969549391  fine_reg_loss:0.7828391277127795  clf_loss:2.487855169508192 
+
+dataset:sdd epoch:392  total_loss:7.735056824154324  coarse_reg_loss:4.481584840350681  fine_reg_loss:0.7697092857625749  clf_loss:2.4837627278433905 
+
+dataset:sdd epoch:393  total_loss:7.6348966757456465  coarse_reg_loss:4.193781879213121  fine_reg_loss:0.9398717847135332  clf_loss:2.5012430217530994 
+
+dataset:sdd epoch:394  total_loss:7.777530617184109  coarse_reg_loss:4.254394001430935  fine_reg_loss:1.034278651078542  clf_loss:2.4888579977883234 
+
+dataset:sdd epoch:395  total_loss:7.489065832561916  coarse_reg_loss:4.140597899754842  fine_reg_loss:0.867361866765552  clf_loss:2.4811061355802746 
+
+dataset:sdd epoch:396  total_loss:7.535173442628649  coarse_reg_loss:4.244416157404582  fine_reg_loss:0.8147508038414849  clf_loss:2.47600648800532 
+
+dataset:sdd epoch:397  total_loss:7.494573990503947  coarse_reg_loss:4.2449783484141035  fine_reg_loss:0.7801688379711575  clf_loss:2.469426843855116 
+
+dataset:sdd epoch:398  total_loss:7.597143252690633  coarse_reg_loss:4.20788296063741  fine_reg_loss:0.9254056711991628  clf_loss:2.4638546175426908 
+
+dataset:sdd epoch:399  total_loss:7.794971916410658  coarse_reg_loss:4.230405383639866  fine_reg_loss:1.1150926782025232  clf_loss:2.4494738711251154 
+
+dataset:sdd epoch:400  total_loss:7.341986550225152  coarse_reg_loss:4.163622445530361  fine_reg_loss:0.7591618398825327  clf_loss:2.41920225487815 
+
+dataset:sdd epoch:401  total_loss:6.881811062494914  coarse_reg_loss:3.863402326901754  fine_reg_loss:0.623664625816875  clf_loss:2.394744144545661 
+
+dataset:sdd epoch:402  total_loss:6.696279181374444  coarse_reg_loss:3.7252001762390137  fine_reg_loss:0.5924319939480888  clf_loss:2.378647016154395 
+
+dataset:sdd epoch:403  total_loss:6.641908990012275  coarse_reg_loss:3.6899200280507407  fine_reg_loss:0.5776351541280746  clf_loss:2.3743537995550366 
+
+dataset:sdd epoch:404  total_loss:6.628187603420681  coarse_reg_loss:3.679372509320577  fine_reg_loss:0.5914291739463806  clf_loss:2.357385794321696 
+
+dataset:sdd epoch:405  total_loss:6.6121305624643965  coarse_reg_loss:3.6509168810314603  fine_reg_loss:0.6101294623480903  clf_loss:2.3510842654440136 
+
+dataset:sdd epoch:406  total_loss:6.564180427127415  coarse_reg_loss:3.6026439666748047  fine_reg_loss:0.6154656426774131  clf_loss:2.346070839299096 
+
+dataset:sdd epoch:407  total_loss:6.561378743913439  coarse_reg_loss:3.5806095467673407  fine_reg_loss:0.633927681379848  clf_loss:2.3468415406015186 
+
+dataset:sdd epoch:408  total_loss:6.479340765211317  coarse_reg_loss:3.5560167365603976  fine_reg_loss:0.5785012774997287  clf_loss:2.3448227445284524 
+
+dataset:sdd epoch:409  total_loss:6.396753125720554  coarse_reg_loss:3.4883737166722617  fine_reg_loss:0.5631335261795256  clf_loss:2.3452459375063577 
+
+dataset:sdd epoch:410  total_loss:6.313027328915066  coarse_reg_loss:3.427732507387797  fine_reg_loss:0.5450484918223487  clf_loss:2.3402463263935513 
+
+dataset:sdd epoch:411  total_loss:6.264703697628445  coarse_reg_loss:3.396539078818427  fine_reg_loss:0.5302330553531647  clf_loss:2.337931646241082 
+
+dataset:sdd epoch:412  total_loss:6.2234880394405785  coarse_reg_loss:3.3532897101508246  fine_reg_loss:0.5366879486375384  clf_loss:2.333510352505578 
+
+dataset:sdd epoch:413  total_loss:6.233809762530857  coarse_reg_loss:3.3576954868104725  fine_reg_loss:0.550050910976198  clf_loss:2.326063334941864 
+
+dataset:sdd epoch:414  total_loss:6.275081555048625  coarse_reg_loss:3.3820696936713324  fine_reg_loss:0.565639305445883  clf_loss:2.3273724913597107 
+
+dataset:sdd epoch:415  total_loss:6.250807020399305  coarse_reg_loss:3.3535129096772938  fine_reg_loss:0.574978338347541  clf_loss:2.322315792242686 
+
+dataset:sdd epoch:416  total_loss:6.199619213740031  coarse_reg_loss:3.3259083959791393  fine_reg_loss:0.5582980066537857  clf_loss:2.3154128193855286 
+
+dataset:sdd epoch:417  total_loss:6.1567015118069115  coarse_reg_loss:3.3146810266706677  fine_reg_loss:0.5341807934972975  clf_loss:2.307839665147993 
+
+dataset:sdd epoch:418  total_loss:6.179894394344753  coarse_reg_loss:3.353561348385281  fine_reg_loss:0.5163254274262322  clf_loss:2.3100076251559787 
+
+dataset:sdd epoch:419  total_loss:6.1820130878024635  coarse_reg_loss:3.330962989065382  fine_reg_loss:0.530555870797899  clf_loss:2.32049423456192 
+
+dataset:sdd epoch:420  total_loss:6.239700767729017  coarse_reg_loss:3.3754049672020807  fine_reg_loss:0.5483161525593864  clf_loss:2.315979692671034 
+
+dataset:sdd epoch:421  total_loss:6.201949834823608  coarse_reg_loss:3.304793198903402  fine_reg_loss:0.5722637391752667  clf_loss:2.3248929248915777 
+
+dataset:sdd epoch:422  total_loss:6.304408152898152  coarse_reg_loss:3.3460786210166082  fine_reg_loss:0.6340827511416541  clf_loss:2.324246797296736 
+
+dataset:sdd epoch:423  total_loss:6.3021060890621605  coarse_reg_loss:3.3711265193091497  fine_reg_loss:0.6069216165277693  clf_loss:2.3240579962730408 
+
+dataset:sdd epoch:424  total_loss:6.215608967675103  coarse_reg_loss:3.3265969488355847  fine_reg_loss:0.5667334761884477  clf_loss:2.322278512848748 
+
+dataset:sdd epoch:425  total_loss:6.18495692147149  coarse_reg_loss:3.271795498000251  fine_reg_loss:0.596651115351253  clf_loss:2.316510339577993 
+
+dataset:sdd epoch:426  total_loss:6.137364202075535  coarse_reg_loss:3.2527738412221274  fine_reg_loss:0.5719557371404436  clf_loss:2.3126346137788563 
+
+dataset:sdd epoch:427  total_loss:6.146857950422499  coarse_reg_loss:3.257047666443719  fine_reg_loss:0.5672738701105118  clf_loss:2.3225363757875233 
+
+dataset:sdd epoch:428  total_loss:6.185425334506565  coarse_reg_loss:3.3042136828104653  fine_reg_loss:0.5654070923725764  clf_loss:2.3158044748836093 
+
+dataset:sdd epoch:429  total_loss:6.1497167746226  coarse_reg_loss:3.2597370677524142  fine_reg_loss:0.5863391061623892  clf_loss:2.3036406371328564 
+
+dataset:sdd epoch:430  total_loss:6.171796692742242  coarse_reg_loss:3.307440996170044  fine_reg_loss:0.5679300692346361  clf_loss:2.296425700187683 
+
+dataset:sdd epoch:431  total_loss:6.139204899470012  coarse_reg_loss:3.260188579559326  fine_reg_loss:0.5885364611943563  clf_loss:2.2904798256026373 
+
+dataset:sdd epoch:432  total_loss:6.0299467245737715  coarse_reg_loss:3.198436008559333  fine_reg_loss:0.5425006399552027  clf_loss:2.2890100479125977 
+
+dataset:sdd epoch:433  total_loss:6.03705260488722  coarse_reg_loss:3.2034138573540583  fine_reg_loss:0.5523490210374197  clf_loss:2.2812898688846164 
+
+dataset:sdd epoch:434  total_loss:5.975678205490112  coarse_reg_loss:3.168067600991991  fine_reg_loss:0.5296616339021258  clf_loss:2.2779489954312644 
+
+dataset:sdd epoch:435  total_loss:6.021031671100193  coarse_reg_loss:3.1818447510401406  fine_reg_loss:0.5573065479596456  clf_loss:2.2818803124957614 
+
+dataset:sdd epoch:436  total_loss:6.034336460961236  coarse_reg_loss:3.2141902579201593  fine_reg_loss:0.5486491637097465  clf_loss:2.271497070789337 
+
+dataset:sdd epoch:437  total_loss:5.979977104398939  coarse_reg_loss:3.1353627708223133  fine_reg_loss:0.5723278505934609  clf_loss:2.272286514441172 
+
+dataset:sdd epoch:438  total_loss:5.9374039438035755  coarse_reg_loss:3.111238102118174  fine_reg_loss:0.5616084867053561  clf_loss:2.264557421207428 
+
+dataset:sdd epoch:439  total_loss:5.887916644414266  coarse_reg_loss:3.054479479789734  fine_reg_loss:0.5771792729695638  clf_loss:2.2562578916549683 
+
+dataset:sdd epoch:440  total_loss:5.895718124177721  coarse_reg_loss:3.0869236257341175  fine_reg_loss:0.5567219340138965  clf_loss:2.2520725329717 
+
+dataset:sdd epoch:441  total_loss:5.872536102930705  coarse_reg_loss:3.0645124117533364  fine_reg_loss:0.5542925977044635  clf_loss:2.2537311050626965 
+
+dataset:sdd epoch:442  total_loss:5.869766367806329  coarse_reg_loss:3.082697788874308  fine_reg_loss:0.5314815822574828  clf_loss:2.2555868956777783 
+
+dataset:sdd epoch:443  total_loss:5.946275578604804  coarse_reg_loss:3.1515583329730563  fine_reg_loss:0.5409238371584151  clf_loss:2.2537934250301785 
+
+dataset:sdd epoch:444  total_loss:5.982037994596693  coarse_reg_loss:3.186728345023261  fine_reg_loss:0.52536331779427  clf_loss:2.269946257273356 
+
+dataset:sdd epoch:445  total_loss:5.9188768068949384  coarse_reg_loss:3.1172270112567477  fine_reg_loss:0.5191469689210256  clf_loss:2.282502849896749 
+
+dataset:sdd epoch:446  total_loss:5.941404077741835  coarse_reg_loss:3.134419626659817  fine_reg_loss:0.513635257879893  clf_loss:2.2933492130703397 
+
+dataset:sdd epoch:447  total_loss:5.886865986718072  coarse_reg_loss:3.091990609963735  fine_reg_loss:0.5265972150696648  clf_loss:2.268278267648485 
+
+dataset:sdd epoch:448  total_loss:5.868893252478705  coarse_reg_loss:3.0470830731921725  fine_reg_loss:0.5313253353039423  clf_loss:2.2904848059018454 
+
+dataset:sdd epoch:449  total_loss:5.9497186872694225  coarse_reg_loss:3.0606658127572803  fine_reg_loss:0.6015554583734937  clf_loss:2.2874973747465344 
+
+dataset:sdd epoch:450  total_loss:6.0716809961530895  coarse_reg_loss:3.145161615477668  fine_reg_loss:0.6376498838265737  clf_loss:2.2888696127467685 
+
+dataset:sdd epoch:451  total_loss:6.0092208120557995  coarse_reg_loss:3.1150987015830145  fine_reg_loss:0.6070519189039866  clf_loss:2.2870702346165976 
+
+dataset:sdd epoch:452  total_loss:6.019875393973456  coarse_reg_loss:3.1685661209954157  fine_reg_loss:0.5558449758423699  clf_loss:2.2954643103811474 
+
+dataset:sdd epoch:453  total_loss:5.911071406470405  coarse_reg_loss:3.105367249912686  fine_reg_loss:0.5267782873577542  clf_loss:2.278925895690918 
+
+dataset:sdd epoch:454  total_loss:5.959249920315212  coarse_reg_loss:3.1607896619372897  fine_reg_loss:0.5219071242544386  clf_loss:2.2765531804826526 
+
+dataset:sdd epoch:455  total_loss:5.996685081058079  coarse_reg_loss:3.2077279488245645  fine_reg_loss:0.5170346912410524  clf_loss:2.271922402911716 
+
+dataset:sdd epoch:456  total_loss:5.965413570404053  coarse_reg_loss:3.1686558855904474  fine_reg_loss:0.5325205557876163  clf_loss:2.2642371389600964 
+
+dataset:sdd epoch:457  total_loss:6.002722528245714  coarse_reg_loss:3.173729737599691  fine_reg_loss:0.5599558254082998  clf_loss:2.2690369685490928 
+
+dataset:sdd epoch:458  total_loss:5.951428492863973  coarse_reg_loss:3.1424710353215537  fine_reg_loss:0.5455702410803901  clf_loss:2.263387189971076 
+
+dataset:sdd epoch:459  total_loss:5.957561863793267  coarse_reg_loss:3.1302025384373136  fine_reg_loss:0.5578913390636444  clf_loss:2.26946798298094 
+
+dataset:sdd epoch:460  total_loss:5.876367410024007  coarse_reg_loss:3.0610725482304892  fine_reg_loss:0.5496477252907224  clf_loss:2.2656471927960715 
+
+dataset:sdd epoch:461  total_loss:5.864879449208577  coarse_reg_loss:3.0642692976527743  fine_reg_loss:0.5404530697398715  clf_loss:2.2601571016841464 
+
+dataset:sdd epoch:462  total_loss:5.85707081688775  coarse_reg_loss:3.0471907258033752  fine_reg_loss:0.5604367438289855  clf_loss:2.2494433191087513 
+
+dataset:sdd epoch:463  total_loss:5.799837933646308  coarse_reg_loss:3.025287310282389  fine_reg_loss:0.5359924899207221  clf_loss:2.2385580937067666 
+
+dataset:sdd epoch:464  total_loss:5.823399437798394  coarse_reg_loss:3.002259525987837  fine_reg_loss:0.5939138746923871  clf_loss:2.2272259990374246 
+
+dataset:sdd epoch:465  total_loss:5.835151778327094  coarse_reg_loss:3.064061019155714  fine_reg_loss:0.5526743216647042  clf_loss:2.2184164656533136 
+
+dataset:sdd epoch:466  total_loss:7.435639354917738  coarse_reg_loss:4.333870490392049  fine_reg_loss:0.5855503181616465  clf_loss:2.5162185430526733 
+
+dataset:sdd epoch:467  total_loss:8.392140732871162  coarse_reg_loss:5.08360234896342  fine_reg_loss:0.6109463953309588  clf_loss:2.697591927316454 
+
+dataset:sdd epoch:468  total_loss:8.020657512876722  coarse_reg_loss:4.687678694725037  fine_reg_loss:0.6086746222443051  clf_loss:2.72430419921875 
+
+dataset:sdd epoch:469  total_loss:7.406269947687785  coarse_reg_loss:4.2132264375686646  fine_reg_loss:0.5894026590718163  clf_loss:2.603640900717841 
+
+dataset:sdd epoch:470  total_loss:6.9601784812079535  coarse_reg_loss:3.8552164236704507  fine_reg_loss:0.5860204481416278  clf_loss:2.518941581249237 
+
+dataset:sdd epoch:471  total_loss:6.728319856855604  coarse_reg_loss:3.7107617457707724  fine_reg_loss:0.5644503997431861  clf_loss:2.453107761012183 
+
+dataset:sdd epoch:472  total_loss:6.5450278123219805  coarse_reg_loss:3.559654023912218  fine_reg_loss:0.5557092560662164  clf_loss:2.42966451909807 
+
+dataset:sdd epoch:473  total_loss:6.4505561987559  coarse_reg_loss:3.4656267960866294  fine_reg_loss:0.5829244206349055  clf_loss:2.4020050035582647 
+
+dataset:sdd epoch:474  total_loss:6.313524087270101  coarse_reg_loss:3.3720904058880277  fine_reg_loss:0.5609863963392046  clf_loss:2.380447288354238 
+
+dataset:sdd epoch:475  total_loss:6.242027229732937  coarse_reg_loss:3.3370248211754694  fine_reg_loss:0.5341935952504476  clf_loss:2.370808872911665 
+
+dataset:sdd epoch:476  total_loss:6.255386432011922  coarse_reg_loss:3.33571359846327  fine_reg_loss:0.5535432216193941  clf_loss:2.366129610273573 
+
+dataset:sdd epoch:477  total_loss:6.28235658009847  coarse_reg_loss:3.3326167265574136  fine_reg_loss:0.5926075412167443  clf_loss:2.357132328881158 
+
+dataset:sdd epoch:478  total_loss:6.248150216208564  coarse_reg_loss:3.315689868397183  fine_reg_loss:0.5926914579338498  clf_loss:2.3397688070933023 
+
+dataset:sdd epoch:479  total_loss:6.162733316421509  coarse_reg_loss:3.26247947745853  fine_reg_loss:0.5564590808418062  clf_loss:2.3437947630882263 
+
+dataset:sdd epoch:480  total_loss:6.163048134909736  coarse_reg_loss:3.2441692882113986  fine_reg_loss:0.5577715585629145  clf_loss:2.3611073229047985 
+
+dataset:sdd epoch:481  total_loss:6.303403404023912  coarse_reg_loss:3.364983386463589  fine_reg_loss:0.5864001032378938  clf_loss:2.3520198596848383 
+
+dataset:sdd epoch:482  total_loss:6.102351559533013  coarse_reg_loss:3.1537306110064187  fine_reg_loss:0.6290405674113168  clf_loss:2.3195804754892984 
+
+dataset:sdd epoch:483  total_loss:6.002503845426771  coarse_reg_loss:3.0988824367523193  fine_reg_loss:0.6128497686651018  clf_loss:2.290771656566196 
+
+dataset:sdd epoch:484  total_loss:5.96262428495619  coarse_reg_loss:3.0617017481062145  fine_reg_loss:0.6169240607155694  clf_loss:2.2839985489845276 
+
+dataset:sdd epoch:485  total_loss:5.9853171772427025  coarse_reg_loss:3.095635837978787  fine_reg_loss:0.6066736794180341  clf_loss:2.28300764825609 
+
+dataset:sdd epoch:486  total_loss:6.037168794208103  coarse_reg_loss:3.1462526851230197  fine_reg_loss:0.6093646569384469  clf_loss:2.2815513941976757 
+
+dataset:sdd epoch:487  total_loss:6.0848753452301025  coarse_reg_loss:3.2058492369121976  fine_reg_loss:0.5964084217945734  clf_loss:2.282617794142829 
+
+dataset:sdd epoch:488  total_loss:6.09538722038269  coarse_reg_loss:3.224186407195197  fine_reg_loss:0.5842271165715324  clf_loss:2.286973688337538 
+
+dataset:sdd epoch:489  total_loss:6.018634663687812  coarse_reg_loss:3.148038321071201  fine_reg_loss:0.5841114223003387  clf_loss:2.2864849236276417 
+
+dataset:sdd epoch:490  total_loss:6.008586910035875  coarse_reg_loss:3.167497502432929  fine_reg_loss:0.5658412360482745  clf_loss:2.2752482096354165 
+
+dataset:sdd epoch:491  total_loss:5.925466590457493  coarse_reg_loss:3.0717463625801935  fine_reg_loss:0.5734050671259562  clf_loss:2.2803152004877725 
+
+dataset:sdd epoch:492  total_loss:5.881951729456584  coarse_reg_loss:3.0556737581888833  fine_reg_loss:0.5513631867037879  clf_loss:2.2749148143662348 
+
+dataset:sdd epoch:493  total_loss:5.7620313962300616  coarse_reg_loss:2.9605374005105762  fine_reg_loss:0.5468689451615015  clf_loss:2.254625082015991 
+
+dataset:sdd epoch:494  total_loss:5.806953138775295  coarse_reg_loss:3.003706071111891  fine_reg_loss:0.5451471772458818  clf_loss:2.2580998738606772 
+
+dataset:sdd epoch:495  total_loss:5.814719412061903  coarse_reg_loss:3.0392973820368447  fine_reg_loss:0.5147068152825037  clf_loss:2.2607152263323465 
+
+dataset:sdd epoch:496  total_loss:5.78921553823683  coarse_reg_loss:3.0327592028511896  fine_reg_loss:0.5169065528445773  clf_loss:2.2395497030682034 
+
+dataset:sdd epoch:497  total_loss:5.740641037623088  coarse_reg_loss:3.0192985468440585  fine_reg_loss:0.4956931637393104  clf_loss:2.2256493634647794 
+
+dataset:sdd epoch:498  total_loss:5.754273891448975  coarse_reg_loss:3.018709123134613  fine_reg_loss:0.5027497460444769  clf_loss:2.2328150471051535 
+
+dataset:sdd epoch:499  total_loss:5.702261500888401  coarse_reg_loss:2.9617956744299994  fine_reg_loss:0.511169402135743  clf_loss:2.2292964657147727 
+
