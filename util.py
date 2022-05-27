@@ -55,7 +55,7 @@ def add_argument(parser):
 
     parser.add_argument('--dataset', type=str, default='eth', help='eth,hotel,univ,zara1,zara2,sdd')
     parser.add_argument('--data_dir', type=str,
-                        default='/data0/liushuai/pec_data/')
+                        default='./dataset/')
     parser.add_argument('--log_dir', type=str)
     parser.add_argument('--epoch', type=int, default=350)
     parser.add_argument('--lr', type=float, default=0.001)
