@@ -86,7 +86,7 @@ bash train.sh 'eth'
 ```
 Training on a single 2080Ti. 
 
-##Acknowledgement
+## Acknowledgement
 
 Thank for the pre-processed data provided by the works of  [PECNet](https://github.com/HarshayuGirase/Human-Path-Prediction).
 
